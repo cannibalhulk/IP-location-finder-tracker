@@ -32,7 +32,7 @@ export default function App() {
       };
       getInitialData();
     } catch {
-      console.trace(error);
+      console.log(error);
     }
   }, []);
 
