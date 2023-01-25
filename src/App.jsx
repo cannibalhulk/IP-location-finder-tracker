@@ -3,7 +3,6 @@ import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import "./App.css";
 import Markerposition from "./Markerposition";
-import icon from "./icon"
 import arrowSVG from "../images/icon-arrow.svg";
 import "../images/pattern-bg.png";
 
