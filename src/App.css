@@ -4,6 +4,7 @@
   font-family: 'Rubik',sans-serif;
 }
   .pattern-bg{
+    display: block;
   position: absolute;
   z-index: -10;
   width: 100%;
